@@ -6,6 +6,7 @@ const Home = () => {
   return (
     <SafeAreaView>
       <Stack.Screen options={{ title: "Overview", headerShown: false }} />
+      <Text>im here</Text>
     </SafeAreaView>
   );
 };
